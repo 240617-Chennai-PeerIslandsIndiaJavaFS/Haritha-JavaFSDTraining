@@ -1,0 +1,28 @@
+2024-06-20 12:58:53 INFO  org.example.DungeonAdventure - Starting Dungeon Adventure...
+2024-06-20 12:58:53 INFO  org.example.Creature - Creature created: Hero with health: 100
+2024-06-20 12:58:53 INFO  org.example.Player - Player created: Hero with health: 100
+2024-06-20 12:58:53 INFO  org.example.Creature - Creature created: Goblin with health: 20
+2024-06-20 12:58:53 INFO  org.example.Goblin - Goblin created: Goblin with health: 20
+2024-06-20 12:58:53 INFO  org.example.Room - Random enemy selected: Goblin
+2024-06-20 12:58:53 INFO  org.example.Item - Item created: Healing Potion
+2024-06-20 12:58:53 INFO  org.example.Potion - Potion created: Healing Potion
+2024-06-20 12:58:53 INFO  org.example.Room - Random item selected: Healing Potion
+2024-06-20 12:58:53 INFO  org.example.Room - Room 'Entrance' created with Goblin and Potion.
+2024-06-20 12:58:53 INFO  org.example.DungeonAdventure - Current Room: Entrance
+2024-06-20 12:58:53 INFO  org.example.DungeonAdventure - Player's Health: 100
+2024-06-20 12:58:53 INFO  org.example.DungeonAdventure - Encountered Enemy: Goblin
+2024-06-20 12:58:53 INFO  org.example.DungeonAdventure - Options: (1) Attack, (2) Run
+2024-06-20 13:02:37 INFO  org.example.DungeonAdventure - Starting Dungeon Adventure...
+2024-06-20 13:02:37 INFO  org.example.Creature - Creature created: Hero with health: 100
+2024-06-20 13:02:37 INFO  org.example.Player - Player created: Hero with health: 100
+2024-06-20 13:02:37 INFO  org.example.Creature - Creature created: Goblin with health: 20
+2024-06-20 13:02:37 INFO  org.example.Goblin - Goblin created: Goblin with health: 20
+2024-06-20 13:02:37 INFO  org.example.Room - Random enemy selected: Goblin
+2024-06-20 13:02:37 INFO  org.example.Item - Item created: Sword
+2024-06-20 13:02:37 INFO  org.example.Weapon - Weapon created: Sword
+2024-06-20 13:02:37 INFO  org.example.Room - Random item selected: Sword
+2024-06-20 13:02:37 INFO  org.example.Room - Room 'Entrance' created with Goblin and Weapon.
+2024-06-20 13:02:37 INFO  org.example.DungeonAdventure - Current Room: Entrance
+2024-06-20 13:02:37 INFO  org.example.DungeonAdventure - Player's Health: 100
+2024-06-20 13:02:37 INFO  org.example.DungeonAdventure - Encountered Enemy: Goblin
+2024-06-20 13:02:37 INFO  org.example.DungeonAdventure - Options: (1) Attack, (2) Run
