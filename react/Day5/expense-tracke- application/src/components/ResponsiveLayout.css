@@ -1,0 +1,13 @@
+.responsive-layout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+@media (max-width: 600px) {
+  .responsive-layout {
+    padding: 10px;
+  }
+}
